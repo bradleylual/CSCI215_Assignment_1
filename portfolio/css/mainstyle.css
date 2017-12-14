@@ -1,0 +1,32 @@
+.header {
+    padding: 30px 0 20px 0;
+    background-size: cover;
+    text-align: center;
+    font-family: "Palatino Linotype";
+}
+
+.body {
+    background-color: lightseagreen;
+}
+
+.nav {
+    text-align: center;
+    font-family: Garamond;
+    font-size: 4rem;
+    color: black;
+}
+
+.section {
+    font-family: "Palatino Linotype";
+    color: lemonchiffon;
+    font-size: 3rem;
+}
+
+.footer {
+    text-align: center;
+    font-family: Garamond;
+    font-size: 4rem;
+    color: black;
+}
+
+
